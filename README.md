@@ -5,9 +5,9 @@
 
 [2. Algorithms you can implement](#algorithms)
 
-## For those are new to open source
+## For those who are new to open source
 
-Learning how to make the first step has always been the toughest steps in every journey.
+Learning how to make the first step has always been the toughest in every journey.
 Let this be a good start for your open source contributions.
 
 In GitHub, you can save your code, update them, and work on it as a team.
