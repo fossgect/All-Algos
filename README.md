@@ -1,4 +1,4 @@
-# Lets implement some algorithms
+# Lets implement some algorithms
 
 For those are new to open source;
 
@@ -20,5 +20,3 @@ This copies the repository to your account. After that you should dow
 This is done by:
 
 ```git clone https://github.com/<your-github-username>/Algorithms-Implementation```
-
-
