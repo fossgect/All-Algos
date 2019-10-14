@@ -13,7 +13,7 @@ https://www.atlassian.com/git/tutorials/install-git
 
 For contributing to this repo, you should fork it first. Then it will be like contributing to your own repo.
 
-![How to Fork](https://github.com/firstcontributions/first-contributions/blob/master/assets/fork.png)
+<img src="https://github.com/firstcontributions/first-contributions/blob/master/assets/fork.png" width="300" height="200"/>
 
 This copies the repository to your account. After that you should download the code to your system, so that you can edit it.
 
