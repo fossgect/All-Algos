@@ -55,7 +55,7 @@ Congratulations!!! You have successfully uploaded all your changes to your forke
 Now, for making these changes in the actual repository, you have to ask the maintainer for that. It is called raising a pull request.
 After pushing your changes, you can see a button as below, in your repo.
 
-<img src="https://github.com/firstcontributions/first-contributions/blob/master/assets/compare-and-pull.png" width="600" height="100">
+<img src="https://github.com/firstcontributions/first-contributions/blob/master/assets/compare-and-pull.png" width="600" height="200">
 
 Now add a message describing the changes you have made, and send the pull request.
 
