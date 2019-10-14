@@ -1,11 +1,11 @@
 # Lets implement some algorithms
 
 ## Table of Contents
-[1. For those who are new to open source](#for-beginners)
+[1. For those who are new to open source](#forthosearenewtoopensource-)
 
 [2. Algorithms you can implement](#algorithms)
 
-## For those are new to open source <a name="#for-beginners"></a>
+## For those are new to open source
 
 Learning how to make the first step has always been the toughest steps in every journey.
 Let this be a good start for your open source contributions.
