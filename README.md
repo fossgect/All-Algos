@@ -65,3 +65,30 @@ After pushing your changes, you can see a button as below, in your repo.
 Now add a message describing the changes you have made, and send the pull request.
 
 After verifying the changes the maintainer will either merge your pull request or cancel it.
+
+
+
+## Algorithms you can implement
+_All the contributions should be in the respective folders_
+
+_Any pull requests with copied codes will be considered as invalid._
+### Graph
+1. Breadth First Search in Graphs (BFS)
+2. Depth First Search in Graphs (DFS)
+3. Kruskal's Algorithm for finding minimum spanning tree
+4. Prim's Algorithm for finding minimum spanning tree
+5. Travelling Salesman Problem
+### Cryptography
+1. Caesar's Cipher
+2. Playfair Cipher
+### Data Structures
+1. Linked List
+2. 2 stacks on a single array
+3. 3 stacks on a single array
+4. Infix to Postfix Conversion
+5. Evaluation of Postfix expression
+### Sorting
+1. Bubble Sort
+2. Merge Sort
+3. Quick Sort
+4. Heap Sort
