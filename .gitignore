@@ -3,3 +3,6 @@
 
 #VSCode
 .vscode
+
+# OS_X Metadata
+.DS_Store
