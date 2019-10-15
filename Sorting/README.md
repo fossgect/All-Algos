@@ -12,4 +12,4 @@ A [ ] = { 7, 4, 5, 2}
 
 This array can be sorted using the following steps.
 
-![](https://raw.githubusercontent.com/shaheemMPM/Algorithms-Implementation/tree/master/Sorting/Assets/bubble_1.png)
+![](https://raw.githubusercontent.com/shaheemMPM/Algorithms-Implementation/shaheem/Sorting/Assets/bubble_1.png)
