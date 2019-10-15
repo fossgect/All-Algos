@@ -1,9 +1,9 @@
 # Lets implement some algorithms
 
 ## Table of Contents
-[1. For those who are new to open source](#forthosearenewtoopensource-)
+[1. For those who are new to open source]( #for-those-who-are-new-to-open-source )
 
-[2. Algorithms you can implement](#algorithms)
+[2. Algorithms you can implement]( #algorithms-you-can-implement )
 
 ## For those who are new to open source
 
