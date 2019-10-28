@@ -7,6 +7,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C](./src/1.c)|Easy|
+|1a|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://leetcode.com/playground/35Ni26ee)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](./src/2.c)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C](./src/3.c)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C](./src/4.c)|Hard|
@@ -81,3 +82,4 @@ LeetCode
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [C](./src/1184.c)|Easy|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [C](./src/1189.c)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C](./src/1207.c)|Easy|
+|1207|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](https://leetcode.com/playground/PCFJLTCy)|Easy|
