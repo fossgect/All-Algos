@@ -92,3 +92,6 @@ _Any pull requests with copied codes will be considered as invalid._
 2. Merge Sort
 3. Quick Sort
 4. Heap Sort
+### Leetcode
+1. Two Sum
+2. Reverse digits of an Integer
