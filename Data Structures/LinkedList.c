@@ -69,11 +69,14 @@ int main() {
       break;
     case 2:
       deleteEnd(&head);
+      break;
       //    display(head);
       //  printf("%d", head->data);
     case 3:
       display(head);
+      break;
     case 4:
+      exit(0);
       break;
     }
   }
