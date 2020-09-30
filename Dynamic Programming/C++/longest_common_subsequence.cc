@@ -1,5 +1,3 @@
-/*pgm that implements longest increasing subsequence to print its length as well the series using dynamic programming concepts */
-
 #include <iostream>
 #include <string>
 using namespace std;
