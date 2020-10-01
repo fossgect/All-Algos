@@ -1,4 +1,4 @@
-# Lets implement some algorithms
+# Lets implement some amazing algorithms
 
 ## Table of Contents
 [1. For those who are new to open source]( #for-those-who-are-new-to-open-source )
@@ -8,6 +8,7 @@
 ## For those who are new to open source
 
 Learning how to make the first step has always been the toughest in every journey.
+Let us take some baby steps in order to reach that world of unlimited possibilities.
 Let this be a good start for your open source contributions.
 
 In GitHub, you can save your code, update them, and work on it as a team.
